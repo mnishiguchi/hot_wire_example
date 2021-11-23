@@ -23,6 +23,8 @@ gem 'redis', '~> 4.0'
 # gem 'bcrypt', '~> 3.1.7'
 # https://github.com/hotwired/hotwire-rails
 gem 'hotwire-rails'
+# https://viewcomponent.org/
+gem 'view_component'
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
